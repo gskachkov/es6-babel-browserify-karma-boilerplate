@@ -22,6 +22,7 @@
     "karma-phantomjs-launcher": "0.2.1",
     "phantomjs": "1.9.18",
     "rimraf": "2.4.3",
+    "stampit": "2.1.1",
     "vinyl-source-stream": "1.1.0"
   }
 }
