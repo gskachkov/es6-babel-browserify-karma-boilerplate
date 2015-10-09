@@ -30,7 +30,6 @@ gulp.task('build', ['clean', 'test'], function () {
 });
 
 gulp.task('test', ['clean'], function () {
-	return true;
     return gulp.src(CONF.SPEC_DIR + '**/*.js')
         .pipe(karma({
             configFile: 'karma.conf.js',
