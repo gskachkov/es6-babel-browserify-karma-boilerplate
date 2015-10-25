@@ -6,4 +6,4 @@ console.log(hello.sayHello());
 
 let stamp = Stamp();
 console.log(stamp.sayHello());
-console.log('hello world')
+console.log('hello world!');
