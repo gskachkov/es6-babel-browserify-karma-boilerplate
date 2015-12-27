@@ -1,3 +1,4 @@
+
 [![Dependency Status](https://www.versioneye.com/user/projects/560a4e40a081be000a000426/badge.svg?style=flat)](https://www.versioneye.com/user/projects/560a4e40a081be000a000426) [![Build Status](https://travis-ci.org/mdix/es6-babel-browserify-karma-boilerplate.svg)](https://travis-ci.org/mdix/es6-babel-browserify-karma-boilerplate)
 
 ## ES6 Babel Browserify Karma Boilerplate
